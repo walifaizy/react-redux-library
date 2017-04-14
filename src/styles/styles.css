@@ -6,6 +6,8 @@
 
 a.active {
   color: orange;
+  font-size: 200% !important;
+  font-weight: bolder;
 }
 
 .btn {
