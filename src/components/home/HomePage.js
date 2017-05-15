@@ -7,7 +7,7 @@ export default class HomePage extends Component {
       <div className="jumbotron">
         <h1>Administration page</h1>
         <p>React, Redux and react-router course</p>
-        <Link to="about" className="btn btn-primary btn-lg">Learn more..</Link>
+        <Link to="/about" className="btn btn-primary btn-lg">Learn more..</Link>
       </div>
     );
   }
